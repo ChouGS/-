@@ -1,4 +1,4 @@
-# -
+# 扫雷
 A mine detecting program with C#
 
 The main program is recommended to open with Visual Studio 2010 or higher versions.
